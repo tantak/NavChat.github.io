@@ -1,0 +1,242 @@
+[
+    {
+        "timestep": 0,
+        "positions": {
+            "objective_position": [
+                0.7,
+                0.99
+            ],
+            "UAV_position": [
+                0.75,
+                0.25
+            ],
+            "position_obstacle0": [
+                0.93,
+                0.88
+            ],
+            "position_obstacle1": [
+                1.0,
+                0.1
+            ],
+            "position_obstacle2": [
+                0.6,
+                0.71
+            ],
+            "position_obstacle3": [
+                0.12,
+                0.03
+            ],
+            "position_obstacle4": [
+                0.53,
+                0.32
+            ]
+        },
+        "state": {
+            "changes_in_distance_with_respect_to_the_target": 0.0,
+            "relative_yaw_UAV_to_objective": 1.64,
+            "relative_distance_UAV_to_objectives": 0.74,
+            "relative_yaw_UAV_to_obstacle0": 1.3,
+            "relative_yaw_UAV_to_obstacle1": -0.55,
+            "relative_yaw_UAV_to_obstacle2": 1.89,
+            "relative_yaw_UAV_to_obstacle3": -2.81,
+            "relative_yaw_UAV_to_obstacle4": 2.85,
+            "relative_distance_UAV_to_obstacle0": 0.66,
+            "relative_distance_UAV_to_obstacle1": 0.29,
+            "relative_distance_UAV_to_obstacle2": 0.48,
+            "relative_distance_UAV_to_obstacle3": 0.67,
+            "relative_distance_UAV_to_obstacle4": 0.23
+        }
+    },
+    {
+        "timestep": 1,
+        "positions": {
+            "objective_position": [
+                0.7,
+                0.99
+            ],
+            "UAV_position": [
+                1.02,
+                0.49
+            ],
+            "position_obstacle0": [
+                0.93,
+                0.88
+            ],
+            "position_obstacle1": [
+                1.0,
+                0.1
+            ],
+            "position_obstacle2": [
+                0.6,
+                0.71
+            ],
+            "position_obstacle3": [
+                0.12,
+                0.03
+            ],
+            "position_obstacle4": [
+                0.53,
+                0.32
+            ]
+        },
+        "state": {
+            "distance_changes_to_the_target": 0.14,
+            "relative_yaw_UAV_to_objective": 2.15,
+            "relative_distance_UAV_to_objectives": 0.6,
+            "relative_yaw_UAV_to_obstacle0": 1.81,
+            "relative_yaw_UAV_to_obstacle1": -1.64,
+            "relative_yaw_UAV_to_obstacle2": 2.67,
+            "relative_yaw_UAV_to_obstacle3": -2.68,
+            "relative_yaw_UAV_to_obstacle4": -2.8,
+            "relative_distance_UAV_to_obstacle0": 0.41,
+            "relative_distance_UAV_to_obstacle1": 0.39,
+            "relative_distance_UAV_to_obstacle2": 0.48,
+            "relative_distance_UAV_to_obstacle3": 1.01,
+            "relative_distance_UAV_to_obstacle4": 0.52
+        }      
+		},
+    {
+        "timestep": 2,
+        "positions": {
+            "objective_position": [
+                0.7,
+                0.99
+            ],
+            "UAV_position": [
+                0.91,
+                0.76
+            ],
+            "position_obstacle0": [
+                0.93,
+                0.88
+            ],
+            "position_obstacle1": [
+                1.0,
+                0.1
+            ],
+            "position_obstacle2": [
+                0.6,
+                0.71
+            ],
+            "position_obstacle3": [
+                0.12,
+                0.03
+            ],
+            "position_obstacle4": [
+                0.53,
+                0.32
+            ]
+        },
+        "state": {
+            "distance_changes_to_the_target": 0.28,
+            "relative_yaw_UAV_to_objective": 2.34,
+            "relative_distance_UAV_to_objectives": 0.31,
+            "relative_yaw_UAV_to_obstacle0": 1.47,
+            "relative_yaw_UAV_to_obstacle1": -1.45,
+            "relative_yaw_UAV_to_obstacle2": -2.96,
+            "relative_yaw_UAV_to_obstacle3": -2.4,
+            "relative_yaw_UAV_to_obstacle4": -2.28,
+            "relative_distance_UAV_to_obstacle0": 0.12,
+            "relative_distance_UAV_to_obstacle1": 0.67,
+            "relative_distance_UAV_to_obstacle2": 0.32,
+            "relative_distance_UAV_to_obstacle3": 1.08,
+            "relative_distance_UAV_to_obstacle4": 0.59
+        }
+		},
+    {
+        "timestep": 3,
+        "positions": {
+            "objective_position": [
+                0.7,
+                0.99
+            ],
+            "UAV_position": [
+                0.74,
+                0.9
+            ],
+            "position_obstacle0": [
+                0.93,
+                0.88
+            ],
+            "position_obstacle1": [
+                1.0,
+                0.1
+            ],
+            "position_obstacle2": [
+                0.6,
+                0.71
+            ],
+            "position_obstacle3": [
+                0.12,
+                0.03
+            ],
+            "position_obstacle4": [
+                0.53,
+                0.32
+            ]
+        },
+        "state": {
+            "distance_changes_to_the_target": 0.22,
+            "relative_yaw_UAV_to_objective": 2.06,
+            "relative_distance_UAV_to_objectives": 0.09,
+            "relative_yaw_UAV_to_obstacle0": -0.11,
+            "relative_yaw_UAV_to_obstacle1": -1.26,
+            "relative_yaw_UAV_to_obstacle2": -2.19,
+            "relative_yaw_UAV_to_obstacle3": -2.19,
+            "relative_yaw_UAV_to_obstacle4": -1.91,
+            "relative_distance_UAV_to_obstacle0": 0.19,
+            "relative_distance_UAV_to_obstacle1": 0.84,
+            "relative_distance_UAV_to_obstacle2": 0.24,
+            "relative_distance_UAV_to_obstacle3": 1.07,
+            "relative_distance_UAV_to_obstacle4": 0.63
+        }
+		},
+    {
+        "timestep": 4,
+        "positions": {
+            "objective_position": [
+                0.7,
+                0.99
+            ],
+            "UAV_position": [
+                0.7,
+                0.99
+            ],
+            "position_obstacle0": [
+                0.93,
+                0.88
+            ],
+            "position_obstacle1": [
+                1.0,
+                0.1
+            ],
+            "position_obstacle2": [
+                0.6,
+                0.71
+            ],
+            "position_obstacle3": [
+                0.12,
+                0.03
+            ],
+            "position_obstacle4": [
+                0.53,
+                0.32
+            ]
+        },
+        "state": {
+            "distance_changes_to_the_target": 0.09,
+            "relative_yaw_UAV_to_objective": -0.0,
+            "relative_distance_UAV_to_objectives": 0.0,
+            "relative_yaw_UAV_to_obstacle0": -0.45,
+            "relative_yaw_UAV_to_obstacle1": -1.25,
+            "relative_yaw_UAV_to_obstacle2": -1.91,
+            "relative_yaw_UAV_to_obstacle3": -2.12,
+            "relative_yaw_UAV_to_obstacle4": -1.81,
+            "relative_distance_UAV_to_obstacle0": 0.25,
+            "relative_distance_UAV_to_obstacle1": 0.94,
+            "relative_distance_UAV_to_obstacle2": 0.3,
+            "relative_distance_UAV_to_obstacle3": 1.12,
+            "relative_distance_UAV_to_obstacle4": 0.7
+        }
+		}
+]
